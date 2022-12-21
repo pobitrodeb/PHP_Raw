@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: #1e272e;
+    font-size: 34px;
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol{
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+    color: #1e272e;
+   
+}
+ol li{
+    background: #e84118;
+    margin: 8px;
+    padding: 15px 10px;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+ol li a{
+    font-size: 24px;
+}
+ul{
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+}
+ul li a{
+    color: black;
+}
+form{
+    background-color: #f5f6fa;
+    background-color: #f5f6fa;
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+.section_title{
+    padding: 5px 10px;
+    background: #0054a6;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    height: auto;
+    width: 320px;
+    margin: 0 auto;
+}
+.formSection{
+    margin-top: 15px;
+}
+input, select, label, textarea {
+    margin: 10px;
+    padding: 5px 4px;
+}
+.inputWidth{
+    width: 250px;
+}
+.countyOPtion{
+    padding: 10px 55px;
+}
+button{
+    padding: 12px 37px;
+    margin: 5px 9px;
+    font-size: 14px;
+    font-weight: 800;
+    background-color: #0054a6;
+    border: none;
+    color: white;
+}
+button a{
+    color:black;
+}
+button:hover{
+    color: #0054a6;
+    background-color: white;
+    border: 1px solid #0054a6;
+}
+
+.submit{
+    
+}
+/* ============= Div Section ===========  */
+.red{
+    float: left;
+    box-sizing: border-box;
+    background: #000;
+    text-align: right;
+    color: white;
+    padding: 50px 85px;
+    border: 1px solid red;
+    margin: 2px;
+    height: 100px;
+}
+.red h3{
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+}
+.divText{
+   margin: 0 auto;
+   width: 95%;
+}
+.ree{
+    float: left;
+    box-sizing: border-box;
+    background: #575fcf;
+    text-align: right;
+    color: white;
+    padding: 50px 85px;
+    border: 1px solid red;
+    margin: 2px;
+    height: 100px;
+}
+.ref{
+    float: left;
+    box-sizing: border-box;
+    background: #4bcffa;
+    text-align: right;
+    color: white;
+    padding: 50px 85px;
+    border: 1px solid red;
+    margin: 2px;
+    height: 100px;
+}
+.reg{
+    float: left;
+    box-sizing: border-box;
+    background: #3c40c6;
+    text-align: right;
+    color: white;
+    padding: 50px 85px;
+    border: 1px solid red;
+    margin: 2px;
+    height: 100px;
+}
+
+.reh{
+    float: left;
+    box-sizing: border-box;
+    background: #ff5e57;
+    text-align: right;
+    color: white;
+    padding: 50px 85px;
+    border: 1px solid red;
+    margin: 2px;
+    height: 100px;
+}

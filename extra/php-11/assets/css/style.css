@@ -1,0 +1,20 @@
+.h-600{
+    height: 450px;
+}
+.h-250{
+    height: 250px;
+}
+.wc{
+    width: 1250px;
+}
+.mycaption{
+    background-color: rgba(0,0,0, 0.5);
+    bottom: 225px;
+}
+s{
+    color: red;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+.SliderHeight{
+    height: 600px;
+}
+.captionHandling{
+    background-color: rgba(0, 0, 0, 0.2);
+    bottom: 150px !important;
+    padding: 55px 15px !important;
+}
